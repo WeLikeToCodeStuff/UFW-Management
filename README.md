@@ -4,8 +4,6 @@
   <a href="https://apache.org/licenses/LICENSE-2.0.txt" target="_blank">
     <img alt="License: Apache License" src="https://img.shields.io/badge/License-Apache License-yellow.svg" />
   </a>
-  <a href="https://twitter.com/ignSsmidge" target="_blank">
-    <img alt="Twitter: ignSsmidge" src="https://img.shields.io/twitter/follow/ignSsmidge.svg?style=social" />
   </a>
 </p>
 
@@ -20,6 +18,13 @@ curl https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw
 chmod +x ufw.sh
 sudo *path-to-script*
 ```
+*Note replace path-to-script with the actaual path to script
+
+## One Command Install
+
+```sh
+bash <(https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh)>
+```
 
 ## Usage
 
@@ -31,8 +36,8 @@ sudo *path-to-script*
 
 👤 **NeonDevelopment && SsmidgeXYZ**
 
-* Website: https://ssmidge.xyz
-* Twitter: [@ignSsmidge](https://twitter.com/ignSsmidge)
+* Website: https://ssmidge.xyz (Ssmidge)
+* Website: https://neon-is.fun (Neon)
 * Github: [@WeLikeToCodeStuff](https://github.com/WeLikeToCodeStuff)
 
 ## 🤝 Contributing
