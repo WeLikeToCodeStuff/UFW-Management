@@ -23,7 +23,7 @@ sudo *path-to-script*
 ## One Command Install
 
 ```sh
-bash <(https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh)>
+sudo bash <(https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh)>
 ```
 
 ## Usage
