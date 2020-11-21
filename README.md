@@ -34,7 +34,7 @@ sudo *path-to-script*
 
 ## Author
 
-👤 **NeonDevelopment && SsmidgeXYZ**
+👤 **NeonDevelopment & SsmidgeXYZ**
 
 * Website: https://ssmidge.xyz (Ssmidge)
 * Website: https://neon-is.fun (Neon)
