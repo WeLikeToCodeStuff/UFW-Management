@@ -16,6 +16,13 @@ if [ $denyacceptans == "y" ]
     echo
 fi
 
+if [ $denyacceptans == "n" ]
+    then 
+    echo "Canceling..."
+    exit 0
+    echo
+fi
+
 
 
 #Port
