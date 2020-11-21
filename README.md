@@ -16,25 +16,25 @@
 ```sh
 wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh
 chmod +x ufw.sh
-sudo *path-to-script*
+bash /path/to/script/ufw.sh
 ```
-*Note replace path-to-script with the actaual path to script
+*Note replace /path/to/script/ufw.sh with the actaual path to script
 
 ## One Command Install
 
 ```sh
-wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && sudo ufw.sh
+wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && bash ufw.sh
 ```
 
 ## Usage
 
 ```sh
-sudo *path-to-script*
+bash /path/to/script/ufw.sh
 ```
 
 ## Author
 
-👤 **NeonDevelopment & SsmidgeXYZ**
+👤 **NeonDevelopment && SsmidgeXYZ**
 
 * Website: https://ssmidge.xyz (Ssmidge)
 * Website: https://neon-is.fun (Neon)
