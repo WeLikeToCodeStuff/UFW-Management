@@ -16,14 +16,14 @@
 ```sh
 wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh
 chmod +x ufw.sh
-bash /path/to/script/ufw.sh
+sudo bash /path/to/script/ufw.sh
 ```
 *Note replace /path/to/script/ufw.sh with the actaual path to script
 
 ## One Command Install
 
 ```sh
-wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && bash ufw.sh
+sudo wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && bash ufw.sh
 ```
 
 ## Usage
