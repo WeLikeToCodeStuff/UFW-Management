@@ -23,7 +23,7 @@ sudo bash /path/to/script/ufw.sh
 ## One Command Install
 
 ```sh
-sudo wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && bash ufw.sh
+sudo wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && sudo bash ufw.sh
 ```
 
 ## Usage
