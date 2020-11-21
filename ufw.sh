@@ -9,6 +9,10 @@ if [ $denyacceptans == "y" ]
 then
 echo
 else
+if [ $denyacceptans == "n" ]
+then 
+echo "Canceling..."
+exit
 echo
 fi
 
@@ -17,7 +21,7 @@ fi
 #Port
 
 
-read -p "What is the port you would like to $denyacceptans"? port
+read -p "What is the port you would like to $denyaccept"? port
 
 
 echo;echo
@@ -28,7 +32,8 @@ then
 echo
 if [ $portans == "n" ]
 then 
-else "Canceling..."
+echo "Canceling..."
+exit
 echo
 fi
 
