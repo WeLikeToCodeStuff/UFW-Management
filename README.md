@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-curl https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh
+wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh
 chmod +x ufw.sh
 sudo *path-to-script*
 ```
@@ -23,7 +23,7 @@ sudo *path-to-script*
 ## One Command Install
 
 ```sh
-sudo curl https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && sudo *path-to-script*
+wget https://raw.githubusercontent.com/WeLikeToCodeStuff/UFW-Management/main/ufw.sh && chmod +x ufw.sh && sudo ufw.sh
 ```
 
 ## Usage
